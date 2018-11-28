@@ -9,9 +9,9 @@ search: true
 
 # 1. Preview Environment Overview<br \>&emsp;^预览环境概述
 
-XDAEX API Preview Environment is a pre-publish test environment related to API features, in which API users can experience new functions and features as well as verify the compatibility very early. Only users that have been verified can have access to this environment. The version that has completed the test period in preview environment will be released to production environment according to the schedule.
+HashKey Pro API Preview Environment is a pre-publish test environment related to API features, in which API users can experience new functions and features as well as verify the compatibility very early. Only users that have been verified can have access to this environment. The version that has completed the test period in preview environment will be released to production environment according to the schedule.
 
-XDAEX程序化交易预览环境是有关程序化交易API功能的预发布测试环境，API用户可以在该环境中尽早地进行新功能特性体验及兼容性验证。该预览环境仅接受已认证的API用户地址访问。在预览环境完成测试阶段的版本，将在约定时间点发布至生产环境。
+HashKey Pro程序化交易预览环境是有关程序化交易API功能的预发布测试环境，API用户可以在该环境中尽早地进行新功能特性体验及兼容性验证。该预览环境仅接受已认证的API用户地址访问。在预览环境完成测试阶段的版本，将在约定时间点发布至生产环境。
 
 # 2. Become a User for Preview Environment<br \>&emsp;^成为预览环境用户
 
@@ -19,11 +19,11 @@ XDAEX程序化交易预览环境是有关程序化交易API功能的预发布测
 
 Please visit
 [https://yushizhao.github.io/XDAEXINTRO/](https://yushizhao.github.io/XDAEXINTRO/)
-Get XDAEX API access qualification following the document.
+Get HashKey Pro API access qualification following the document.
 
 请您移步
 [https://yushizhao.github.io/XDAEXINTRO/](https://yushizhao.github.io/XDAEXINTRO/)
-按照文档所述方式获取XDAEX的API接入资格。
+按照文档所述方式获取HashKey Pro的API接入资格。
 
 ## 2.2. Get Account and Asset<br \>&emsp;^获取预览环境账号和资产
 
@@ -37,13 +37,13 @@ Currently, the defined maintenance window period is from 1:30 PM to 3:30 PM (UTC
 
 预览环境中会定期为测试账户补充测试资产，其无法被提现至任何正式、测试链上的任何钱包内。
 
-目前，XDAEX常规的维护窗口为每周四的1:30PM~ 3:30PM（UTC+8）。在这段期间内，我们可能进行版本升级、账户充值等维护工作，这将可能对您预览环境访问业务的连续性受影响。
+目前，HashKey Pro常规的维护窗口为每周四的1:30PM~ 3:30PM（UTC+8）。在这段期间内，我们可能进行版本升级、账户充值等维护工作，这将可能对您预览环境访问业务的连续性受影响。
 
 # 3. Access to Preview Environment<br \>&emsp;^预览环境接入
 
-You can access the preview environment through the domain api-preview.xdaex.com. Please refer to above parts relates to your account name and initial password.
+You can access the preview environment through the domain [api-preview.pro.hashkey.com](api-preview.pro.hashkey.com). Please refer to above parts relates to your account name and initial password.
 
-If your host is unable to easily resolve the domain name, you can bind api-preview.xdaex.com with
+If your host is unable to easily resolve the domain name, you can bind [api-preview.pro.hashkey.com](api-preview.pro.hashkey.com) with
 45.249.244.103 by setting the hosts, then you can proceed to access the request. Before the test, the following prerequisites are necessary:
 
 1. You need to bind your 2FA verification in the preview environment.
@@ -52,9 +52,9 @@ If your host is unable to easily resolve the domain name, you can bind api-previ
 
 * Message Authentication Code Mode: This authentication method is based on symmetric encryption (SHA256, to be more specific). In this case, a secret key is generated in the server and a copy of the key is sent to the user to keep. If you do not want that the secret key is held by the exchange as well, you should choose to use the public-private key pair method.
 
-您可以通过前述的用户名和初始密码访问api-preview.xdaex.com这一站点来登录预览环境。
+您可以通过前述的用户名和初始密码访问[api-preview.pro.hashkey.com](api-preview.pro.hashkey.com)这一站点来登录预览环境。
 
-如果您的主机无法进行域名解析，您可以通过hosts设置来绑定api-preview.xdaex.com与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
+如果您的主机无法进行域名解析，您可以通过hosts设置来绑定[api-preview.pro.hashkey.com](api-preview.pro.hashkey.com)与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
 
 (1)您需要在预览环境绑定2FA验证方式；
 
@@ -66,23 +66,23 @@ If your host is unable to easily resolve the domain name, you can bind api-previ
 
 # 4. Connector References<br \>&emsp;^接口文档
 
-Refer to the link below to know more details about the XDAEX connector:
+Refer to the link below to know more details about the HashKey Pro connector:
 [https://yushizhao.github.io/XDAEXAPI/](https://yushizhao.github.io/XDAEXAPI/)
 
-Refer to the FAQ link below to know more details about the XDAEX interface:
+Refer to the FAQ link below to know more details about the HashKey Pro interface:
 [https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
 
-若您想了解关于XDAEX接口的文档，请您移步：
+若您想了解关于HashKey Pro接口的文档，请您移步：
 [https://yushizhao.github.io/XDAEXAPI/](https://yushizhao.github.io/XDAEXAPI/)
 
-若您想了解关于XDAEX接口的FAQ，请您移步：
+若您想了解关于HashKey Pro接口的FAQ，请您移步：
 [https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
 
 # 5. Preview Environment Regulations<br \>&emsp;^预览环境守则
 
 The preview environment also deploys strategies like threat-awareness strategies, connector traffic limit. In order to provide a stable test environment for you and other users, we will reject all security, performance and traffic testing to be performed.
 
-If a similar behavior occurs, it may be perceived as a malicious action and XDAEX will not provide service for you.
+If a similar behavior occurs, it may be perceived as a malicious action and HashKey Pro will not provide service for you.
 
 预览环境亦部署了威胁感知、接口流量限制等策略，为了保障您与其他用户的测试可以稳定运行，我们谢绝所有对于预览环境的安全测试、性能测试和流量测试。
 
@@ -90,10 +90,10 @@ If a similar behavior occurs, it may be perceived as a malicious action and XDAE
 
 # 6. Listening to Valuable Suggestions<br \>&emsp;^聆听宝贵建议
 
-If you encounter any issues or for any suggestions during the test, you are welcome to contact us through support@xdaex.com. Your email will be carefully handled.
+If you encounter any issues or for any suggestions during the test, you are welcome to contact us through support@pro.hashkey.com. Your email will be carefully handled.
 
 All issues or malfunctions that impact the implementation of your test will be responded within 24 hours to facilitate solution.
 
-在测试过程中有任何问题和建议，都欢迎您发送邮件到support@xdaex.com与我们取得联系，我们将仔细阅读您的来信。
+在测试过程中有任何问题和建议，都欢迎您发送邮件到support@pro.hashkey.com与我们取得联系，我们将仔细阅读您的来信。
 
 对于影响您测试持续开展测试工作的故障问题，我们会在24小时内作出回复，并为您提供解决方案。
