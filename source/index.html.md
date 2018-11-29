@@ -18,11 +18,11 @@ HashKey Pro程序化交易预览环境是有关程序化交易API功能的预发
 ## 2.1. Get API Access Qualification<br \>&emsp;^获取API接入资格
 
 Please visit
-[https://yushizhao.github.io/XDAEXINTRO/](https://yushizhao.github.io/XDAEXINTRO/)
+[https://hashkeypro.github.io/api-intro/](https://hashkeypro.github.io/api-intro/)
 Get HashKey Pro API access qualification following the document.
 
 请您移步
-[https://yushizhao.github.io/XDAEXINTRO/](https://yushizhao.github.io/XDAEXINTRO/)
+[https://hashkeypro.github.io/api-intro/](https://hashkeypro.github.io/api-intro/)
 按照文档所述方式获取HashKey Pro的API接入资格。
 
 ## 2.2. Get Account and Asset<br \>&emsp;^获取预览环境账号和资产
@@ -67,13 +67,13 @@ If your host is unable to easily resolve the domain name, you can bind [api-prev
 # 4. Connector References<br \>&emsp;^接口文档
 
 Refer to the link below to know more details about the HashKey Pro connector:
-[https://yushizhao.github.io/XDAEXAPI/](https://yushizhao.github.io/XDAEXAPI/)
+[https://hashkeypro.github.io/api-spec/](https://hashkeypro.github.io/api-spec/)
 
 Refer to the FAQ link below to know more details about the HashKey Pro interface:
 [https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
 
 若您想了解关于HashKey Pro接口的文档，请您移步：
-[https://yushizhao.github.io/XDAEXAPI/](https://yushizhao.github.io/XDAEXAPI/)
+[https://hashkeypro.github.io/api-spec/](https://hashkeypro.github.io/api-spec/)
 
 若您想了解关于HashKey Pro接口的FAQ，请您移步：
 [https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
