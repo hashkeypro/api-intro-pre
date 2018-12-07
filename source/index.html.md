@@ -70,13 +70,13 @@ Refer to the link below to know more details about the HashKey Pro connector:
 [https://hashkeypro.github.io/api-spec/](https://hashkeypro.github.io/api-spec/)
 
 Refer to the FAQ link below to know more details about the HashKey Pro interface:
-[https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
+[FAQ](https://support.pro.hashkey.com/hc/en-us/search?utf8=%E2%9C%93&query=API)
 
 若您想了解关于HashKey Pro接口的文档，请您移步：
 [https://hashkeypro.github.io/api-spec/](https://hashkeypro.github.io/api-spec/)
 
 若您想了解关于HashKey Pro接口的FAQ，请您移步：
-[https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
+[FAQ](https://support.pro.hashkey.com/hc/zh-cn/search?utf8=%E2%9C%93&query=API)
 
 # 5. Preview Environment Regulations<br \>&emsp;^预览环境守则
 
