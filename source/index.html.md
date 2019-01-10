@@ -4,6 +4,10 @@ title: Home
 # language_tabs: # must be one of https://git.io/vQNgJ
 #   - json: JSON 
 
+toc_footers:
+    - <a href='https://hashkeypro.github.io/api'>API home page</a>
+    - <a href='https://pro.hashkey.com'>Hashkey Pro Official Site</a>
+    
 search: true
 ---
 
