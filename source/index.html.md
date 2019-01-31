@@ -45,9 +45,9 @@ Currently, the defined maintenance window period is from 1:30 PM to 3:30 PM (UTC
 
 # 3. Access to Preview Environment<br \>&emsp;^预览环境接入
 
-You can access the preview environment through the domain [api-preview.pro.hashkey.com](api-preview.pro.hashkey.com). Please refer to above parts relates to your account name and initial password.
+You can access the preview environment through the domain [api-preview.pro.hashkey.com](https://api-preview.pro.hashkey.com). Please refer to above parts relates to your account name and initial password.
 
-If your host is unable to easily resolve the domain name, you can bind [api-preview.pro.hashkey.com](api-preview.pro.hashkey.com) with
+If your host is unable to easily resolve the domain name, you can bind [api-preview.pro.hashkey.com](https://api-preview.pro.hashkey.com) with
 45.249.244.103 by setting the hosts, then you can proceed to access the request. Before the test, the following prerequisites are necessary:
 
 1. You need to bind your 2FA verification in the preview environment.
@@ -56,9 +56,9 @@ If your host is unable to easily resolve the domain name, you can bind [api-prev
 
 * Message Authentication Code Mode: This authentication method is based on symmetric encryption (SHA256, to be more specific). In this case, a secret key is generated in the server and a copy of the key is sent to the user to keep. If you do not want that the secret key is held by the exchange as well, you should choose to use the public-private key pair method.
 
-您可以通过前述的用户名和初始密码访问[api-preview.pro.hashkey.com](api-preview.pro.hashkey.com)这一站点来登录预览环境。
+您可以通过前述的用户名和初始密码访问[api-preview.pro.hashkey.com](https://api-preview.pro.hashkey.com)这一站点来登录预览环境。
 
-如果您的主机无法进行域名解析，您可以通过hosts设置来绑定[api-preview.pro.hashkey.com](api-preview.pro.hashkey.com)与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
+如果您的主机无法进行域名解析，您可以通过hosts设置来绑定[api-preview.pro.hashkey.com](https://api-preview.pro.hashkey.com)与45.249.244.103，然后再进行访问请求。在开始测试前，还需要完成以下前置条件：
 
 (1)您需要在预览环境绑定2FA验证方式；
 
